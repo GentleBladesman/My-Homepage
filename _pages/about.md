@@ -26,6 +26,6 @@ Selected Projects
 
 Publications
 ======
-See my [Publications page](/publications/) for the full list of papers, including accepted work at ACL 2024, NeurIPS 2024, ICML 2025, COML 2025 (Oral), and COAI 2025. Open-source code links are marked where available.
+See my [Publications page](/publications/) for the full list of papers, including accepted work at ACL 2024, NeurIPS 2024, ICML 2025, COML 2025 (Oral), COMLW 2025, and COAI 2025. Open-source code links are marked where available.
 
 For more details, browse the sections above or find me on [GitHub](https://github.com/GentleBladesman).
