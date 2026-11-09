@@ -3,12 +3,11 @@ title: "Optimizing Large Language Models for Contextual Reasoning in Multi-Task 
 collection: publications
 category: conferences
 permalink: /publication/2025-07-01-optimizing-llms-contextual-reasoning
-excerpt: 'This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments. Accepted at COAI 2025.'
+excerpt: 'This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments. Accepted at COAI 2025. Code repository: 🚧 To be released.'
 date: 2025-07-01
 venue: 'Accepted at COAI 2025 - Conference on Artificial Intelligence'
 slidesurl: 'http://yourwebsite.com/files/slides-optimizing-llms.pdf'
 paperurl: 'https://example.com/coai-paper'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-optimizing-llms.bib'
-codeurl: 'https://github.com/GentleBladesman/optimizing-llms-contextual-reasoning'
 citation: 'GentleBladesman, et al. (2025). "Optimizing Large Language Models for Contextual Reasoning in Multi-Task Environments." <i>Accepted at COAI 2025 - Conference on Artificial Intelligence</i>.'
 ---

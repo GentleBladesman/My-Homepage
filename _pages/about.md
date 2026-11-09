@@ -19,13 +19,13 @@ My research explores novel methods for improving LLMs, including:
 
 Selected Projects
 ======
-- [Enhancing LLMs with Advanced Fine-Tuning Techniques](https://github.com/GentleBladesman/enhancing-llms) — ACL 2024
-- [Adaptive Learning Strategies for LLMs](https://github.com/GentleBladesman/llm-adaptive-learning) — ICML 2025
-- [Optimizing LLMs for Contextual Reasoning](https://github.com/GentleBladesman/optimizing-llms-contextual-reasoning) — Accepted at COAI 2025
-- [Ipsum Lorem is All You Need](https://github.com/GentleBladesman/ipsum-lorem-all-you-need) — Accepted at COML 2025 (Oral Presentation, top ~1%)
+- [Enhancing LLMs with Advanced Fine-Tuning Techniques](https://github.com/GentleBladesman/enhancing-llms) — ACL 2024 | Open-source code ✅
+- [Adaptive Learning Strategies for LLMs](https://github.com/GentleBladesman/llm-adaptive-learning) — ICML 2025 | Open-source code ✅
+- [Optimizing LLMs for Contextual Reasoning](https://github.com/GentleBladesman/optimizing-llms-contextual-reasoning) — Accepted at COAI 2025 | Code: 🚧 To be released
+- [Ipsum Lorem is All You Need](https://github.com/GentleBladesman/ipsum-lorem-all-you-need) — Accepted at COML 2025 (Oral Presentation, top ~1%) | Open-source code ✅
 
 Publications
 ======
-See my [Publications page](/publications/) for the full list of papers, including accepted work at ACL 2024, NeurIPS 2024, ICML 2025, COML 2025 (Oral), and COAI 2025.
+See my [Publications page](/publications/) for the full list of papers, including accepted work at ACL 2024, NeurIPS 2024, ICML 2025, COML 2025 (Oral), and COAI 2025. Open-source code links are marked where available.
 
 For more details, browse the sections above or find me on [GitHub](https://github.com/GentleBladesman).
