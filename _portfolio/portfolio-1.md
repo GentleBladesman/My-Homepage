@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Enhancing Large Language Models with Advanced Fine-Tuning Techniques"
+excerpt: 'Implementation and experiments for advanced fine-tuning methods improving LLM performance on domain-specific tasks, achieving state-of-the-art results on GLUE and SuperGLUE. <br/><img src=\'/images/500x300.png\'>'
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This repository contains the implementation and experiments for the paper "Enhancing Large Language Models with Advanced Fine-Tuning Techniques". It explores novel fine-tuning methods to improve the performance of LLMs in domain-specific tasks, achieving state-of-the-art results on benchmarks like GLUE and SuperGLUE.
+
+[GitHub Repository](https://github.com/GentleBladesman/enhancing-llms)
